@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Executing Custom Bash Action
-      - uses: pgmfernandes/custom-bash-action@main
+        uses: pgmfernandes/custom-bash-action@main
       - name: Get Pokemon name
         uses: philschmid/blog-custom-github-action@master # or @release_version (e.g. v1)
         id: pokemon
