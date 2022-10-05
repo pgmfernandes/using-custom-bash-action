@@ -2,5 +2,4 @@
 
 ## Configuring custom action
 
-
 testing
